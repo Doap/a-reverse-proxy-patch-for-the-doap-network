@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Reverse-Proxy Comment IP Fix
+Plugin Name: A Reverse Proxy Patcy for The Doap Network
 Plugin URI: http://www.doap.com
 Description: Sets the comment IP to the client IP provided by the X-Forwarded-For header before the comment is saved to the database. Avoid network activation of this plugin.
 Version: 0.1.1
